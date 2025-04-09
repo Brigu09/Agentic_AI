@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain_community
+langchainhub
+langchain_groq
+ipykernel
+dotenv
+langchain_embeddings
+langchain_huggingface
+langchain_google_genai
+bs4
+tiktoken
+chromadb
+faiss-cpu
